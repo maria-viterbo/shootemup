@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Maria/documents/visual studio 2015/Projects/ShootEmUp/ShootEmUp/Content/gun.mp3</SourceFile>
+  <SourceTime>2018-02-16T12:18:28.9968085+00:00</SourceTime>
+  <DestFile>C:/Users/Maria/documents/visual studio 2015/Projects/ShootEmUp/ShootEmUp/Content/bin/Windows/Content/gun.xnb</DestFile>
+  <DestTime>2018-02-16T12:21:34.0953606+00:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-12-12T02:05:02+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-12-12T02:05:02+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
